@@ -18,7 +18,7 @@ I'm a backend developer proficient in **Python (Django, Flask)** and **GoLang (G
 ### 🛠 Tools and Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,java,c,c++,go,js,react,next,docker,html,css,postgres,postman,vscode,redis,express,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,cpp,go,js,react,next,docker,html,css,postgres,postman,vscode,redis,express,git,github" />
 </p>
 
 ---
