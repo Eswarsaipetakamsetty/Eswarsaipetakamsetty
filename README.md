@@ -34,7 +34,7 @@ I'm a backend developer proficient in **Python (Django, Flask)** and **GoLang (G
 ### 🛠 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,redis,postman,vscode,git,github,apolloclient" />
+  <img src="https://skillicons.dev/icons?i=docker,redis,postman,vscode,git,github,apollo,graphql" />
 </p>
 
 ---
