@@ -9,7 +9,7 @@ I'm a backend developer proficient in **Python (Django, Flask)** and **GoLang (G
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/eswar-sai-petakamsetty-25a1b8280)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-sai-petakamsetty-25a1b8280/)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Eswar_Sai2005)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_eshwar.xx_)
 
