@@ -1,6 +1,6 @@
 # Hi, I'm Eswar Sai Petakamsetty! 👋
 
-I'm a backend developer proficient in **Python (Flask)** and **GoLang**, with a passion for creating robust and efficient solutions. I enjoy working on scalable systems, RESTful APIs, and microservices, and I am always eager to expand my skill set and stay updated with the latest technologies.
+I'm a backend developer proficient in **Python (Django, Flask)** and **GoLang (Gofiber, Chi)**, with a passion for creating robust and efficient solutions. I enjoy working on scalable systems, RESTful APIs, GraphQl, and microservices, and I am always eager to expand my skill set and stay updated with the latest technologies.
 
 - 💼 Open for collaboration in backend projects.
 - 📧 Reach me at: eswarsai160205@gmail.com
@@ -18,7 +18,7 @@ I'm a backend developer proficient in **Python (Flask)** and **GoLang**, with a 
 ### 🛠 Tools and Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,go,js,docker,html,css,postgres,postman,vscode,redis,express,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,c,c++,go,js,react,next,docker,html,css,postgres,postman,vscode,redis,express,git,github" />
 </p>
 
 ---
